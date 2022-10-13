@@ -4,8 +4,8 @@
 
 ### Mes expériences
 
-👨‍🍳 3 mois en tant que serveur/vendeur polyvalent chez Relais H
-🌐 Créateur de contenu sur le jeu Genshin Impact dans le projet <a href="https://seelieimpact.fr">Seelie Impact</a>
+👨‍🍳 3 mois en tant que serveur/vendeur polyvalent chez Relais H  
+🌐 Créateur de contenu sur le jeu Genshin Impact dans le projet <a href="https://seelieimpact.fr">Seelie Impact</a>  
 🪛 Réparation et maintenance d'ordinateurs de particuliers
 
 
