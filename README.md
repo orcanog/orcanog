@@ -1,24 +1,25 @@
 ### Ma formation actuelle
 
-* 💻 Actuellement en première année de BTS SIO SLAM en alternance chez l'APHP dans le département informatique
+* 💻 Actuellement en Bachelor Informatique à l'ESIEE-IT
 
 ### Mes expériences
 
+* 💻 2 ans à l'AP-HP en tant que consultant en cybersécurité et technicien informatique
 * 👨‍🍳 3 mois en tant que serveur/vendeur polyvalent chez Relais H  
-* 🌐 Créateur de contenu sur le jeu Genshin Impact dans le projet <a href="https://seelieimpact.fr">Seelie Impact</a>  
+* 🌐 Créateur de contenu sur des jeux vidéo
 * 🪛 Réparation et maintenance d'ordinateurs de particuliers
 
 ### Ce que j'aime faire
 
-* 🌐 Contribuer avec mes amis et collaborateurs sur le projet Seelie Impact  
+* 🌐 Contribuer avec mes amis et collaborateurs 
 * ✈️ Voyager entre amis  
 * 🍃 Balades en nature  
 * 🪛 Démonter et réparer des ordinateurs  
-* 💬 Apporter des conseils aux personnes demandant de l'aide sur des jeux vidéos  
+* 💬 Apporter des conseils aux personnes demandant de l'aide sur des jeux vidéo  
 * 🍚 Manger  
 
 ### Mes passions
 
-* 🕹️ Jeux vidéos  
+* 🕹️ Jeux vidéo
 * 🎞️ Animation japonaise  
 * 📷 Photographie
